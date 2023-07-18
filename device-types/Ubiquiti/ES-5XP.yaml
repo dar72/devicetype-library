@@ -1,0 +1,24 @@
+---
+manufacturer: Ubiquiti
+model: ES-5XP
+slug: ubiquiti-es-5xp
+u_height: 1
+is_full_depth: false
+power-ports:
+  - name: 24VDC
+    type: dc-terminal
+    maximum_draw: 60
+interfaces:
+  - name: mgmt
+    type: 100base-tx
+    mgmt_only: true
+  - name: gi1
+    type: 1000base-t
+  - name: gi2
+    type: 1000base-t
+  - name: gi3
+    type: 1000base-t
+  - name: gi4
+    type: 1000base-t
+  - name: gi5
+    type: 1000base-t

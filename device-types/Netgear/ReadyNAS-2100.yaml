@@ -1,0 +1,14 @@
+---
+manufacturer: Netgear
+model: ReadyNAS 2100
+slug: netgear-readynas-2100
+u_height: 1
+is_full_depth: true
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+interfaces:
+  - name: LAN1
+    type: 1000base-t
+  - name: LAN2
+    type: 1000base-t
